@@ -1,0 +1,84 @@
+html{
+    background-color: blueviolet;
+    text-align: center;
+}
+img{
+height:200px;
+width:200px;
+border:7px solid black;
+}
+h1{
+   color: whitesmoke; 
+  }
+.Google{
+border: 10px solid black;
+margin: 10px;
+padding:20px;
+background-color: yellowgreen;
+}
+.Google>h1{
+background-color: black;
+padding:10px;
+padding-top: 10px;
+border:1px solid white;
+}
+.Youtube{
+border:10px solid black;
+margin:10px;
+padding:20px;
+background-color: peachpuff;
+}
+.Youtube>h1{
+background-color: black;
+padding:10px;
+padding-top: 10px;
+border:1px solid white;
+}
+.Wikipedia{
+border:10px solid black;
+margin:10px;
+padding:20px;
+background-color: #7EBDFF;
+}
+.Wikipedia>h1{
+background-color: black;
+padding:10px;
+padding-top: 10px;
+border:1px solid white;
+}
+.Reddit{
+border:10px solid black;
+margin:10px;
+padding:20px;
+background-color: #e3c146;
+}
+.Reddit>h1{
+background-color: black;
+padding:10px;
+padding-top: 10px;
+border:1px solid white;
+}
+.pin-intrest{
+border:10px solid black;
+margin:10px;
+padding:20px;
+background-color: #9F2323;
+}
+.pin-intrest>h1{
+background-color: black;
+padding:10px;
+padding-top: 10px;
+border:1px solid white;
+}
+.spotify{
+border:10px solid black;
+margin:10px;
+padding:20px;
+background-color: #4661de;
+}
+.spotify>h1{
+background-color: black;
+padding:10px;
+padding-top: 10px;
+border:1px solid white;
+}
